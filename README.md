@@ -7,7 +7,7 @@ SecureGate is a smart visitor management system for residential societies. Built
 
 ## 📦 Repository
 
-**Project Repository:** [https://github.com/SurajGardi/SecureGate-System.git](https://github.com/SurajGardi/SecureGate-System.git)
+**Project Repository:** [https://github.com/Sakshi-Jamdade/Secure-Gate.git][(https://github.com/Sakshi-Jamdade/Secure-Gate)]
 
 ---
 
@@ -151,3 +151,4 @@ Guided by: **Dr. Aparna Vaidynathan**
 Project Members:  
 - **Sakshi Jamdade**  
 - **Suraj Gardi**  
+
